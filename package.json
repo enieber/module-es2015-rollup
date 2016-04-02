@@ -1,0 +1,14 @@
+{
+  "name": "module-folding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/rollup/bin/rollup index.js --output bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^0.25.7"
+  }
+}
